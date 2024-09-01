@@ -1,0 +1,14 @@
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#f0f0f0" />
+
+    <!-- Text -->
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="36" font-weight="bold">
+        <tspan fill="#ff4c4c">Colorful</tspan>
+        <tspan x="10" dy="1.2em" fill="#4caf50">Hello</tspan>
+        <tspan x="10" dy="1.2em" fill="#2196f3">World</tspan>
+    </text>
+    
+    <!-- Border -->
+    <rect x="5" y="5" width="290" height="90" fill="none" stroke="#000" stroke-width="2"/>
+</svg>
